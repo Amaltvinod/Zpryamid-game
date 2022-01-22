@@ -1,0 +1,37 @@
+.grid{
+    display:flexbox;
+    flex-wrap: wrap;
+    text-shadow: 4px 5px 2px darkblue;
+    color:white;
+    word-spacing: 15px;
+    margin-top: 100px;
+    margin-left: 600px;
+    margin-bottom: 0px;
+   
+
+
+}
+h1{
+    font-variant: small-caps;
+    text-shadow: 4px 5px 6px darkcyan;
+    color:rgb(145, 145, 27);
+    width: 100px;
+    height: 100px;
+    border: none hidden none;
+    margin: 5px 40px 0px 500px ;
+    
+}
+#player1,#player2,h2{
+    text-align: right;
+    text-shadow: 4px 5px 6px darkcyan;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(145, 145, 27);
+    width: 300px;
+    border: none hidden none;
+    
+}
+body{
+    background-image: url(images/wallpaper.png);
+    background-size: contain;
+    opacity: 1;
+}
